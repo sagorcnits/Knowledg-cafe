@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "img": "https://img.freepik.com/free-vector/programming-code-writing-isometric-icon-software-development-laptop-with-text-program-code_39422-887.jpg?t=st=1710408695~exp=1710412295~hmac=8355ba90fe62fc935963965853e2ecd1d5263d6d878b531be3c7db668db41a15&w=740",
+    "title": "10 Tips for Better Time Management",
+    "author_name": "Alice Smith",
+    "author_img": "https://i.ibb.co/Htw3nqQ/profile.png",
+    "hashtags": ["productivity", "time-management", "tips"],
+    "time": 23
+  },
+  {
+    "id": "2",
+    "img": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?t=st=1710410621~exp=1710414221~hmac=58887bb80a0d095f22dbf4f5bf2da80cdd800bd49d81a2ca727da4c44cfff0f5&w=740",
+    "title": "The Benefits of Meditation",
+    "author_name": "David Johnson",
+    "author_img": "https://i.ibb.co/Htw3nqQ/profile.png",
+    "hashtags": ["health", "meditation", "wellness"],
+    "time": 10
+  },
+  {
+    "id": "3",
+    "img": "https://img.freepik.com/free-photo/html-system-websites-concept_23-2150323542.jpg?t=st=1710410634~exp=1710414234~hmac=c951a9f66eeb4cb8ad0f1acba2f6385cbe18cd203a2b031f952585939283f7d8&w=826",
+    "title": "Exploring the World of Astrophysics",
+    "author_name": "Emily Chen",
+    "author_img": "https://i.ibb.co/Htw3nqQ/profile.png",
+    "hashtags": ["science", "astrophysics", "exploration"],
+    "time": 45
+  },
+  {
+    "id": "4",
+    "img": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?t=st=1710410648~exp=1710414248~hmac=dbd6d1661c6f0b6f5dbabc17186ee56fb785e4e72b21425f9db1abf4a130ce51&w=826",
+    "title": "Traveling on a Budget: Tips and Tricks",
+    "author_name": "Michael Brown",
+    "author_img": "https://i.ibb.co/Htw3nqQ/profile.png",
+    "hashtags": ["travel", "budget-travel", "tips"],
+    "time": 30
+  },
+  {
+    "id": "5",
+    "img": "https://img.freepik.com/free-vector/software-development-isometric-landing-page-website-program-coding-cross-platform-algorithm-programming-languages-interface-computer-screen-technology-process-app-creation-3d-banner_107791-4329.jpg?t=st=1710410662~exp=1710414262~hmac=c23ddc4fb940639c4b27309c8780913ceb3a0cca5f4bbe5d95df54c5dc5e4c61&w=740",
+    "title": "The Art of Cooking: Mastering Culinary Skills",
+    "author_name": "Sophia Lee",
+    "author_img": "https://i.ibb.co/Htw3nqQ/profile.png",
+    "hashtags": ["cooking", "culinary", "skills"],
+    "time": 40
+  }
+]
